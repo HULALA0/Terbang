@@ -121,7 +121,7 @@ function cekGratisOngkir() {
 
   <section class="hero">
     <div class="hero-text">
-      <h1>100% FRESH ORGANIC & FOODS</h1>
+      <h1>FRESH ORGANIC & FOODS</h1>
       <p>WE DELIVERY ORGANIC VEGETABLES & FRUITS</p>
     </div>
   </section>

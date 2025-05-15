@@ -98,8 +98,8 @@ function cekGratisOngkir() {
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Toko Online Sederhana</title>
-  <link rel="stylesheet" href="body.css" />
- 
+  <link rel="stylesheet" href="style.css" />
+  <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 </head>
 <body>
   <header>
@@ -110,10 +110,11 @@ function cekGratisOngkir() {
             <h1>FRESHLY</h1>
           </div>
           <ul>
-              <li><a href="#promo">Promo</a></li>
+              <li><a href="#promo">Home</a></li>
               <li><a href="#produk">Produk</a></li>
-              <li><a href="#keranjang">Keranjang</a></li>
-              <li><a href="logout.php">Logout</a></li>
+              <li><a href="#logout">Tentang</a></li>
+              <li><a href="#logout">Kontak</a></li>
+              <li><img src="mage_basket-fill.svg"></li>
           </ul>
       </div>
     </nav>

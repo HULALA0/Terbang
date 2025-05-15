@@ -100,6 +100,7 @@ function cekGratisOngkir() {
   <title>Toko Online Sederhana</title>
   <link rel="stylesheet" href="style.css" />
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
 </head>
 <body>
   <header>
@@ -125,6 +126,66 @@ function cekGratisOngkir() {
       <h1>FRESH ORGANIC & FOODS</h1>
       <p>WE DELIVERY ORGANIC VEGETABLES & FRUITS</p>
     </div>
+  </section>
+
+  <section class="adv">
+    <table>
+      <tr id="gambar">
+        <th>
+          <dotlottie-player
+            src="https://lottie.host/f985b52e-60fa-4f93-a7f9-6a2ec252458c/ESqVuq6jya.lottie"
+            background="transparent"
+            justify_content="center"
+            speed="1"
+            style="width: 200px; height: 200px"
+            loop
+            autoplay>
+          </dotlottie-player>
+        </th>
+        <th>
+          <dotlottie-player
+            src="https://lottie.host/5d3aeaf2-8491-4628-9a72-d45dc1f5b18c/E31zAT58rQ.lottie"
+            background="transparent"
+            speed="1"
+            style="width: 150px; height: 150px"
+            loop
+            autoplay>
+          </dotlottie-player>
+        </th>
+        <th>
+          <dotlottie-player
+            src="https://lottie.host/919c464b-2246-4d50-94a7-aa77abc58e6c/61DK9dmhfR.lottie"
+            background="transparent"
+            speed="1"
+            style="width: 150px; height: 150px"
+            loop
+            autoplay>
+          </dotlottie-player>
+        </th>
+        <th>
+          <dotlottie-player
+            src="https://lottie.host/e9a8ed1a-f752-43e2-88df-35d9edccab0f/5stT9pDDoU.lottie"
+            background="transparent"
+            speed="1"
+            style="width: 150px; height: 150px"
+            loop
+            autoplay>
+          </dotlottie-player>
+        </th>
+      </tr>
+      <tr>
+        <th>Free Shipping</th>
+        <th>Fresh</th>
+        <th>Quality</th>
+        <th>Support</th>
+      </tr>
+      <tr id="desc">
+        <th>On order over 100k</th>
+        <th>Product well package</th>
+        <th>Good Quality</th>
+        <th>24/7 Support</th>
+      </tr>
+    </table>
   </section>
 
   <section id="keranjang">

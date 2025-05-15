@@ -75,6 +75,24 @@ body {
     max-width: 100%;
     margin: 0 auto;
   }
+
+  .adv {
+    align-items: center;
+    padding: 5%;
+  }
+  .adv table, tr, th {
+    border: 0px none;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    text-align: center;
+  }
+
   .produk-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));

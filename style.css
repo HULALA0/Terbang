@@ -48,7 +48,7 @@ body {
   }
 
   .hero {
-    height: 80vh;
+    height: 20vh;
     background-image: url('vegetables.svg'); /* Ganti dengan gambar latar sayuranmu */
     background-size: cover;
     background-position: center;

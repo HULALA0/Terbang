@@ -1,2 +1,0 @@
-# Terbang
-join my party

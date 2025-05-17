@@ -111,8 +111,8 @@ function cekGratisOngkir() {
             <h1>FRESHLY</h1>
           </div>
           <ul>
-              <li><a href="#promo">Home</a></li>
-              <li><a href="#produk">Produk</a></li>
+              <li><a href="#Home">Home</a></li>
+              <li><a href="#home">Produk</a></li>
               <li><a href="#logout">Tentang</a></li>
               <li><a href="#logout">Kontak</a></li>
               <li><img src="mage_basket-fill.svg"></li>
